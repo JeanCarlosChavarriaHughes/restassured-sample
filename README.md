@@ -4,6 +4,8 @@
 * Gradlew Version 7
 
 ## Sample execution
+Sample Results: https://jeancarloschavarriahughes.github.io/restassured-sample/build/reports/tests/test/index.html
+
 ``` restassured-sample % ./gradlew test
 
 > Task :test
